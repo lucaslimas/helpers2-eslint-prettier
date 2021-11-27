@@ -1,6 +1,6 @@
 # Projeto com Eslint e Prettier
 
-Esse repositório possuí o código final concluído pelo página de helpers [Instalando Eslint e Prettier](https://github.com/lucaslimas/helpers2/blob/main/pages/eslint_prettier.md).
+Esse repositório possuí o código final concluído pela página de helpers [Instalando Eslint e Prettier](https://github.com/lucaslimas/helpers2/blob/main/pages/eslint_prettier.md).
 
 ## Executando
 

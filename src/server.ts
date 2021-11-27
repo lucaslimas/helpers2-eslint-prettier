@@ -1,4 +1,4 @@
-import express from "express";
+import express from 'express';
 
 const server = express();
 
@@ -7,5 +7,5 @@ server.get('/', (req, res) => {
 });
 
 server.listen(3333, () => {
-  console.log('server is running...')
+  console.log('server is running...');
 });
